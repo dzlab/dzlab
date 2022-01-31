@@ -1,3 +1,3 @@
-# 📩 Latest Blog Posts // You can name it whatever you want.
+# 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
