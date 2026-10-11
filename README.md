@@ -1,8 +1,8 @@
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Elasticsearch with AI agents through Model Context Protocol](https://dzlab.github.io/genai/2025/05/18/elasticsearch-mcp/)
-- [An In-Depth Look at Claude’s System Prompt](https://dzlab.github.io/ai/2025/05/12/peeking-under-the-hood-claude/)
-- [Pinterest’s Wide Column Database in Python with RocksDB](https://dzlab.github.io/database/2025/05/11/wide-column-database/)
-- [Building an Elasticsearch-based webapp with an AI Coding Partner](https://dzlab.github.io/ai/2025/05/10/gemini-powered-coding-journey/)
-- [Building data pipelines with Vector by Datadog](https://dzlab.github.io/monitoring/2025/02/28/vector-pipeline/)
+- [Jev Plays Chess: Building a Decision Harness Around a Model](https://dzlab.github.io/genai/2026/10/03/jev-plays-chess/)
+- [Build and Train a MiniGPT with JAX](https://dzlab.github.io/genai/2026/08/20/build-train-llm-jax/)
+- [AI Code Review: Context, Retrieval, and Specialized Review Agents](https://dzlab.github.io/genai/2026/08/11/ai-code-review-agents/)
+- [Google Cloud Professional Cloud Architect Certification Preparation Guide](https://dzlab.github.io/certification/2026/07/05/gcp-cloud-architect-prep/)
+- [Building with Spec Kit](https://dzlab.github.io/ai/software%20development/github/2025/10/04/spec-kit/)
 <!-- BLOG-POST-LIST:END -->
